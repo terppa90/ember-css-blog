@@ -333,8 +333,8 @@ h4 {
   padding: 10px 0;
 }
 
-.about > p {
-  padding: 0 0 10px 0;
+.text {
+  margin: 0 0 12px 0;
 }
 
 .col > .white > img {
