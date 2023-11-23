@@ -519,3 +519,27 @@ img {
 .buttontext {
   margin: 12px 0 4px 0;
 }
+
+/* FOOTER */
+
+.dark-grey {
+  color: #fff !important;
+  background-color: #616161 !important;
+}
+
+/* MEDIA SCREEN */
+
+@media (max-width: 621px) {
+  .nav-bar {
+    display: none;
+  }
+}
+
+@media (max-width: 993px) {
+  .l8 {
+    width: 100%;
+  }
+  .l4 {
+    width: 100%;
+  }
+}
